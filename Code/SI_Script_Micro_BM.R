@@ -390,10 +390,10 @@ Model <- Func_BIOCLIM2(data, EUL = TRUE ,interval = "confidence", verif = TRUE, 
 
   #Arguments from the chosen model: 
 
-      #"EUL=TRUE" to included insecticores in the model estimations;  
+      #"EUL=TRUE" to included insectivores in the model estimations;  
       #Verif=TRUE, to detected possible errors in species names; 
       #interval="confidence" to calculate confidence interval; 
-      #quantiv=TRUE, to provided classification in biomas.
+      #quantiv=TRUE, to provided classification in biomass.
 
 
   #Climatic parameters obtained:  
